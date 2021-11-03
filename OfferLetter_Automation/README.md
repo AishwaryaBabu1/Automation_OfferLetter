@@ -2,6 +2,9 @@
 
 The OfferLetter Automation bot will generate offerletter for all the new hires listed in the input excel.
 
+To Run the bot place the Documents folder directly in desktop > Open Main.xaml and run
+
+
 **Folder Structure:**
 - Documents
   -Input
